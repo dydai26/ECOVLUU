@@ -135,7 +135,7 @@ const Contact = () => {
                 <Mail className="h-6 w-6 text-brand-brown" />
               </div>
               <h3 className="text-lg font-bold mb-2">Email Us</h3>
-              <p className="text-gray-700">ecovluu@gmail.com</p>
+              <p className="text-gray-700">info@ecovluu.com </p>
               <p className="text-gray-500">We'll respond within 24 hours</p>
             </div>
             </div>
