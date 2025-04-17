@@ -1,4 +1,3 @@
-
 import { createClient } from '@supabase/supabase-js';
 
 const supabaseUrl = 'https://inivoiunisrgdinrcquu.supabase.co';
@@ -150,3 +149,4 @@ export const getUPSShippingRates = async (
     throw error;
   }
 };
+
